@@ -62,7 +62,7 @@ run the program functions
 
  **Abdelrahman Mohamed**
 
-- GitHub: [kinyera-amos](https://github.com/Abdo9826)
+- GitHub: [Abdelrahman Mohamed](https://github.com/Abdo9826)
 - Twitter: [@Abdelrahman_Mohamed](https://twitter.com/abodyalex1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdelruhman-mihamed-a42667179/)
 
