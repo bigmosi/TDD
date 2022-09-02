@@ -1,6 +1,5 @@
 require 'rspec'
 require './solver'
-
 describe 'solver' do
   before(:each) do
     @solver = Solver.new
@@ -30,7 +29,6 @@ describe 'solver' do
       expect(@solver.reverse(1)).to eq 'Error'
     end
   end
-
   context 'fizzbuzz' do
     it 'should return "Fizz" for 3' do
       expect(@solver.fizzbuzz(3)).to eq 'Fizz'
